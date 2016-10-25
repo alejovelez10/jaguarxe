@@ -1,0 +1,28 @@
+*
+{
+	box-sizing: border-box;
+}
+body
+{
+	background: url('../images/jaguar-xe.jpg')no-repeat center top;
+	background-attachment: fixed;
+	background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.contenedor
+{
+	background: rgba(0,0,0,0.5);
+	border-radius: 10px;
+	color: white;
+	margin: 100px;
+	max-width: 600px;
+	padding: 36px;
+}
+.contenedor a
+{
+	background: #bb0101;
+	color: white;
+	max-width: 600px;
+	padding: 10px 32px;
+	text-decoration: none;
+}
