@@ -26,3 +26,12 @@ body
 	padding: 10px 32px;
 	text-decoration: none;
 }
+@media (max-width: 736px)
+{
+     .contenedor
+    {
+     	margin:50px;
+     }
+
+     
+}
